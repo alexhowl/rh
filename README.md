@@ -1,4 +1,4 @@
-# rh (Robin + Hare Films WEbsite)
+# rh (Robin + Hare Films Website)
 Robin + Hare Films Website
 
 # Content
